@@ -9,3 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV (PDF)]({{ "/files/cv.pdf" | relative_url }})  
